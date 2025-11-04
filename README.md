@@ -31,10 +31,14 @@ It’s designed for developers, students, and AI enthusiasts who wish to explore
 📂 Project Structure
 azure-gpt-chatbot/
 │
+
 ├── app.py # Main Streamlit application
-├── requirements.txt # Project dependencies
-├── README.md # Documentation file
-└── assets/ # Icons or additional assets (optional)
+
+├──requirements.txt 
+
+├── README.md 
+
+└── assets
 Install Dependencies
 pip install -r requirements.txt
 Configure Azure Credentials
